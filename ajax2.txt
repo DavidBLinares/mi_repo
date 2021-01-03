@@ -1,7 +1,0 @@
-<h1>ADRIAN</h1>
-<h2>PAPA</h2>
-<h2>MAMA</h2>
-<h2>PACO</h2>
-<h2>MANUELA</h2>
-<h2>LILA</h2>
-<h2>ALBERTO</h2>
